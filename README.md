@@ -1,1 +1,1 @@
-This is the repo of synthetic time series generation for credit risk.
+Ongoing project. Synthetic time series generation for credit risk.
